@@ -9,7 +9,7 @@ Searching for a reliable g4f provider can be daunting. This project makes it eas
 
 # Usage
 
-1. Download the latest g4f package at [https://github.com/xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+1. Install the latest g4f package from [https://github.com/xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 2. Download and run `g4f_tester.py` from my repo
 3. It will print a list of working providers, followed by a list of not working ones and their respective errors
 4. Profit.
